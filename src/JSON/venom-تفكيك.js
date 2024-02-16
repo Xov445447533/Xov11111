@@ -48,6 +48,10 @@
         "response": "م ا د ا ر ا"
     },
     {
+        "question": "venom",
+        "response": "v e n o m"
+    },
+    {
         "question": "يوريتشي",
         "response": "ي و ر ي ت ش ي"
     },
